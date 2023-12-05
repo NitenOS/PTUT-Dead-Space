@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/LPMJV/Documents/Unreal Projects/PTUT-Dead-Space/Proto/Content/Proto2D5/Test_Tori/LVL_Test_de_LD.umap",
 				"C:/Users/LPMJV/Documents/Unreal Projects/PTUT-Dead-Space/Proto/Content/_GENERATED/LPMJV/Box_FD35C949.uasset",
 				"C:/Users/LPMJV/Documents/Unreal Projects/PTUT-Dead-Space/Proto/Content/_GENERATED/LPMJV/Rectangle_8A62E7B4.uasset",
@@ -28,6 +29,10 @@
 				"C:/Users/LPMJV/Documents/Unreal Projects/PTUT-Dead-Space/Proto/Content/Proto2D5/Test_Tori/_GENERATED/LPMJV/CubeGridToolOutput_DDD8AC8D.uasset",
 				"C:/Users/LPMJV/Documents/Unreal Projects/PTUT-Dead-Space/Proto/Content/Proto2D5/Test_Tori/_GENERATED/LPMJV/Extrude_290A49D7.uasset",
 				"C:/Users/LPMJV/Documents/Unreal Projects/PTUT-Dead-Space/Proto/Content/Proto2D5/Test_Tori/Test_Mur_Mat.uasset",
+=======
+				"C:/Users/LMPJV/Desktop/LProMJV/Projet TUT/Git/PTUT-Dead-Space/Proto/Content/Menu/BP_Menu.uasset",
+				"C:/Users/LMPJV/Desktop/LProMJV/Projet TUT/Git/PTUT-Dead-Space/Proto/Content/Menu/MenuFond.uasset",
+>>>>>>> Stashed changes
 				"D:/Fac Unreal/PTUT-Dead-Space/Proto/Content/Proto2D/LVL_2D.umap",
 				"D:/Fac Unreal/PTUT-Dead-Space/Proto/Content/Proto2D/Asset/SPR_Player.uasset",
 				"D:/Fac Unreal/PTUT-Dead-Space/Proto/Content/Proto2D/Asset/SPR_Obj.uasset",
